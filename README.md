@@ -1,2 +1,15 @@
-# first_python_project_Iwitter
-First try to work with twitters new API in Python code
+# first_python_project_Twitter
+
+
+### THIS WILL BE A PROJECT TO LEARN TO ### 
+### WORK WITH TWITTER-API2.0 IN PYTHON ###
+### THEREFORE I WANT TO CREATE CODE TO ###
+### SCAN TWEETS OF SINGLE USERS WITHIN ###
+###   A PYTHON SCRIPTED APPLICATION    ###
+
+###  FIRST IDEA IS TO TAKE TWEETS AS   ###
+### STRING WHICH WILL BE SPLIT IN ITS  ###
+###  SINGLE WORDS AND SEARCH THE WEB   ###
+###   FOR EACH OF THIS WORD-STRINGS    ###
+### TO RETURN SEARCH RESULTS OR EVEN   ###
+### PASS THEM OVER TO A SQL-DATABASE   ###  
